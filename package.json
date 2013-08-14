@@ -1,0 +1,22 @@
+{
+  "name": "log4js-appender-mongodb",
+  "description": "An appender into MongoDB for log4js",
+  "version": "0.1.0",
+  "keywords": [
+    "log4js",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/croquiscom/log4js-appender-mongodb",
+  "bugs": {
+    "url": "https://github.com/croquiscom/log4js-appender-mongodb/issues"
+  },
+  "author": "Sangmin Yoon <sangmin.yoon@croquis.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/croquiscom/log4js-appender-mongodb.git"
+  },
+  "dependencies": {
+    "mongodb": ""
+  }
+}
